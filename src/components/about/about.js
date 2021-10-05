@@ -15,7 +15,7 @@ export default class About extends Component {
                     <p>Not a ninja.<br />
                     A person devoted to work, communicative team player, with know-how of what he’s doing 
                     and with desire for constant improvement and success. 
-                    Always hungry for new stuff, new technolgies, new informations, new trends...
+                    Always hungry for new stuff, new technolоgies, new informations, new trends...
                     </p>
                     <div className="row">
                         <div className="columns contact-details">
@@ -31,7 +31,7 @@ export default class About extends Component {
                         </div>
                         <div className="columns download">
                             <p>
-                                <a href="https://drive.google.com/open?id=1YeiQOokqgg4mBlJZAkpYQpnJl74A1OvC" target="_blank" download="CV-Мирко_Ѓуриќ.docx" className="button"><i className="fa fa-download" />Download Resume</a>
+                                <a href="https://drive.google.com/file/d/1XzWnmZNRFlYzXHdDd4PVPqK7DQ4V2mu9/view?usp=sharing" target="_blank" download="CV-Mirko Gjurik.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                             </p>
                         </div>
                     </div> {/* end row */}
